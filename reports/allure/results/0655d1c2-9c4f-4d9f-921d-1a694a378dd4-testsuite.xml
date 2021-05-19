@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1621120520356' stop='1621120525949'>
+    <name>Test Contact Us form WebdriverUni</name>
+    <title>Test Contact Us form WebdriverUni</title>
+    <test-cases>
+        <test-case start='1621120520356' status='passed' stop='1621120523695'>
+            <name>Should be able to submit a successful submission via contact us form</name>
+            <title>Should be able to submit a successful submission via contact us form</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/Users/sunilghosal/Desktop/Selenium Udemy/tests/contactUsTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621120523695' status='passed' stop='1621120524518'>
+            <name>Should not be able to submit a successful submission via contact us form as all fields are required</name>
+            <title>Should not be able to submit a successful submission via contact us form as all fields are required</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/Users/sunilghosal/Desktop/Selenium Udemy/tests/contactUsTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621120524519' status='passed' stop='1621120525238'>
+            <name>Should not be able to submit a successful submission via contact us form as all fields are required</name>
+            <title>Should not be able to submit a successful submission via contact us form as all fields are required</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/Users/sunilghosal/Desktop/Selenium Udemy/tests/contactUsTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621120525239' status='passed' stop='1621120525948'>
+            <name>Should not be able to submit a successful submission via contact us form as all fields are required</name>
+            <title>Should not be able to submit a successful submission via contact us form as all fields are required</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/Users/sunilghosal/Desktop/Selenium Udemy/tests/contactUsTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
